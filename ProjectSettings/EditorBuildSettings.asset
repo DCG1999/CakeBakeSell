@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScreen.unity
+    guid: f84e71c759fb6584ebeaa38721a6b6df
+  - enabled: 1
+    path: Assets/Scenes/Day01_ShopScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Day02_Baking.unity
+    guid: 88d83b2f1b4ce57468547e340a2f58ee
+  - enabled: 1
+    path: Assets/Scenes/Day03_Sell.unity
+    guid: 2758bcc6db5fed94992eac0bc9ce2799
+  m_configObjects: {}
